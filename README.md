@@ -17,7 +17,7 @@ Backend-часть для сайта объявлений.
 1. Клонируйте репозиторий:
 
 ```
-git clone https://github.com/MaratZ/diplom.git
+git clone https://github.com/MaratZ/diplom33.git
 ```
 ## Конфигурация
 1. Создайте виртуальное окружение poetry.
